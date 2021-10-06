@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VinfoPOL/1.0.0": {
+        "dependencies": {
+          "TwitterLibrary": "1.0.0"
+        },
+        "runtime": {
+          "VinfoPOL.dll": {}
+        }
+      },
+      "TwitterLibrary/1.0.0": {
+        "runtime": {
+          "TwitterLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VinfoPOL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TwitterLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
